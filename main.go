@@ -1,5 +1,6 @@
 package main
 
+// This is a sample comment to demonstrate git workflow
 import (
 	"database/sql"
 	"fmt"
